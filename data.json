@@ -1,0 +1,73 @@
+{
+  "sukkur-bbq": {
+    "name": "Sukkur BBQ",
+    "name_ur": "سکھر بی بی کیو",
+    "whatsapp": "923001234567",
+    "menu": [
+      {
+        "name": "Chicken Karahi",
+        "name_ur": "چکن کڑاہی",
+        "price": 1200,
+        "image_url": "/static/imgs/chicken_karahi.jpg",
+        "is_available": true,
+        "is_chefs_special": true,
+        "category": "Main Course"
+      },
+      {
+        "name": "Chicken Biryani",
+        "name_ur": "چکن بریانی",
+        "price": 300,
+        "image_url": "/static/imgs/chicken_biryani.jpg",
+        "is_available": true,
+        "is_chefs_special": false,
+        "category": "Main Course"
+      },
+      {
+        "name": "Seekh Kabab",
+        "name_ur": "سیکھ کباب",
+        "price": 300,
+        "image_url": "/static/imgs/seekh_kabab.jpg",
+        "is_available": true,
+        "is_chefs_special": false,
+        "category": "Starter"
+      }
+    ],
+    "theme": "default",
+    "tables": []
+  },
+  "royal-cafe": {
+    "name": "Royal Cafe",
+    "name_ur": "رائل کیفے",
+    "whatsapp": "923111222333",
+    "menu": [
+      {
+        "name": "Zinger Burger",
+        "name_ur": "زنگر برگر",
+        "price": 450,
+        "image_url": "/static/imgs/zinger_burger.jpg",
+        "is_available": true,
+        "is_chefs_special": false,
+        "category": "Main Course"
+      },
+      {
+        "name": "Club Sandwich",
+        "name_ur": "کلب سینڈوچ",
+        "price": 550,
+        "image_url": "/static/imgs/club_sandwich.jpg",
+        "is_available": true,
+        "is_chefs_special": true,
+        "category": "Starters"
+      },
+      {
+        "name": "Cold Coffee",
+        "name_ur": "کولڈ کافی",
+        "price": 300,
+        "image_url": "/static/imgs/cold_coffee.jpg",
+        "is_available": true,
+        "is_chefs_special": false,
+        "category": "Drinks"
+      }
+    ],
+    "theme": "default"
+  }
+}
